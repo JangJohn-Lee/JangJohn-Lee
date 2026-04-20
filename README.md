@@ -27,7 +27,7 @@
 ### [Mobile Picture Exhibition](https://github.com/JangJohn-Lee/First_Exhibition) 
 **QR 코드를 활용한 온/오프라인 연결 사진 전시회 페이지**
 - **Role:** Web Development & Deployment
-- **Period:** 2026.03 (1개월)
+- **Period:** 2026.03.05 ~ 03.06 (2일)
 - **Key Features:** - 오프라인 전시회 관람객을 위한 QR 코드 기반 모바일 상세 페이지 구축
     - **Netlify**를 활용한 정적 웹사이트 배포 및 실운영 경험
     - 모바일 기기에 최적화된 반응형 UI/UX 설계
